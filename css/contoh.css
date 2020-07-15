@@ -1,0 +1,56 @@
+.nav-link:hover{
+    transform: scale(1.09);
+}
+.nav-item{
+	font-size: 15px;
+}
+.display-4{
+	font-weight: bold;
+}
+.card{
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.card-body-icon{
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 10px;
+	opacity: 0.9;
+	font-size: 90px;
+}
+.dropdown-menu{
+    padding: 14px 0;
+    margin-top: -10px;
+    margin-left: 211.5px;
+    background-color: #404243;
+    color: #fff;
+}
+.dropdown-menu :hover{
+    transform: scale(1.05); 
+    background-color: #FF00B4;
+    border-radius: 4px;
+    color: #fff;
+}
+.dropdown-item{
+	display: block;
+	color: #fff;
+	padding: 10px 25px;
+}
+.dropdown-item:hover{
+	color: #fff;
+}
+ul{
+	min-height: 550px;
+}
+.bg-warna{
+	background-color: #FF00B4;
+}
+.btn-outline-white {
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+}
+.btn-outline-white:hover {
+    background-color: #fa09a4;
+}

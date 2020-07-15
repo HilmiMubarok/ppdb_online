@@ -1,0 +1,102 @@
+.header{
+	display: flex;
+}
+.image{
+	display: flex;
+	margin-left: 40px;
+	margin-top: -10px;
+}
+.slogan{
+	margin-left: 50px;
+	margin-top: -135px;
+	text-align: center;
+}
+.slogan h1{
+	font-weight: bold;
+}
+.isi{
+	display: block;
+}
+.foto{
+	float: left;
+	margin-top: 10px;
+	height: 6cm;
+	width: 4.7cm;
+	border: 1px solid #f9f9f9;
+}
+.keterangan{
+	float: right;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #111;
+	font-size: 25px;	
+}
+.pilihan {
+	margin-top: 10px;
+}
+td{
+	height: 2.4em;
+}
+.hrj{
+	margin-top: -10px;
+}
+.tabel{
+	text-align: center;
+	margin-top: 12px;
+	border-collapse: collapse;
+	width: 100%;
+}
+.tabel td,
+.tabel th{
+	border: 1px solid #969696 ;
+  	padding: 10px;
+}
+.tabel th{
+	background-color: #d3d3d3;
+}
+.pernyataan{
+	margin-top: 13px;
+	border: 1px solid black;
+	height:200px; 
+}
+.pernyataan h5{
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.pernyataan p{
+	line-height: 1.5;
+	margin-left: 20px;
+	margin-right: 10px;
+	color: #111;
+}
+.card{
+	margin-top: 10px;
+	display: inline-flex;
+}
+.Siswa{
+	margin-top: 27px;
+	width: 50%;
+}
+.kiri{
+	margin-left: 80px;
+}
+.hr-kiri{
+	margin-top: 85px;
+	width: 230px;
+	text-align: left;
+}
+.ortu{
+	margin-top: -170px;
+	text-align: right;
+	width: 50%;
+	float: right;
+}
+.kanan{
+	margin-right: 80px;
+}
+.hr-kanan{
+	margin-top: 85px;
+	width: 230px;
+	text-align: right;
+}

@@ -1,0 +1,53 @@
+table{
+    line-height: 2;
+    margin-top: 8px;
+    font-size: 18px;
+    margin-left: 15px;
+}
+.card{
+    width: 100%;
+    height: 270px;
+    border-radius: 4px 4px 0 0;
+    border: 1px solid #8F8F8F;
+}
+.card-header{
+    background-color: #f3f3f3;
+    padding: 35px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #8F8F8F;
+}
+.terima{
+    border: 1px solid #8F8F8F;
+    background-color: green;
+    margin-top: 13px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.tolak{
+    border: 1px solid #8F8F8F;
+    background-color: red;
+    margin-top: 13px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.pernyataan{
+    margin-top: 13px;
+    border: 1px solid #8F8F8F;
+    height:300px; 
+}
+.pernyataan p{
+    font-size: 16;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 10px;
+    color: #111;
+    line-height: 2;
+}

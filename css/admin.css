@@ -1,0 +1,48 @@
+.nav-link:hover{
+    transform: scale(1.09);
+}
+.display-4{
+	font-weight: bold;
+}
+.card{
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.card-body-icon{
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 10px;
+	opacity: 0.9;
+	font-size: 90px;
+}
+ul{
+	min-height: 587px;
+}
+
+.dropdown-menu{
+    padding: 14px 0;
+    margin-top: -10px;
+    margin-left: 217px;
+    background-color: #404243;
+    color: #fff;
+}
+.dropdown-menu :hover{
+    transform: scale(1.05); 
+    background-color: #23B795;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.dropdown-item{
+	display: block;
+	color: #fff;
+	padding: 10px 26px;
+}
+.dropdown-item:hover{
+	color: #fff;
+}
+.bg-blue{
+	background-color: #23B795;
+	color: #ffffff;
+}

@@ -1,0 +1,24 @@
+body{/*
+ 	background-image: url(../img/gedung.jpg);
+background-position: center;
+background-size: cover; */
+background-color: #f2f2f2;
+}
+.container{
+	width: 30%;
+	margin-top: 9%;
+	background-color: #FCFCFC;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.6);
+	padding: 42px;
+}
+button{
+	width: 100%;
+	margin-top: 20px;
+}
+button:hover{
+	transform: scale(1.04);
+}
+.progress{
+    margin-top: 10px;
+    height: 1.1px;
+}
